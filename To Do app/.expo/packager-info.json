@@ -1,5 +1,10 @@
 {
-  "expoServerNgrokUrl": "https://zy-8fj.anonymous.awesomeproject.exp.direct",
-  "packagerNgrokUrl": "https://packager.zy-8fj.anonymous.awesomeproject.exp.direct",
-  "ngrokPid": 9948
+  "expoServerNgrokUrl": "https://zy-8fj.anonymous.to-do-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.zy-8fj.anonymous.to-do-app.exp.direct",
+  "ngrokPid": 2856,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 2420,
+  "webpackServerPort": null
 }
